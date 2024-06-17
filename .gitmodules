@@ -1,24 +1,24 @@
 [submodule "services/config-service"]
 	path = services/config-service
-	url = https://github.com/debanaskar13/Config-Service.git
+	url = git@github.com:debanaskar13/Config-Service.git
 [submodule "services/discovery-service"]
 	path = services/discovery-service
-	url = https://github.com/debanaskar13/Discovery-Service.git
+	url = git@github.com:debanaskar13/Discovery-Service.git
 [submodule "services/customer-service"]
 	path = services/customer-service
-	url = https://github.com/debanaskar13/Customer-Service.git
+	url = git@github.com:debanaskar13/Customer-Service.git
 [submodule "services/product-service"]
 	path = services/product-service
-	url = https://github.com/debanaskar13/Product-Service.git
+	url = git@github.com:debanaskar13/Product-Service.git
 [submodule "services/order-service"]
 	path = services/order-service
-	url = https://github.com/debanaskar13/Order-Service.git
+	url = git@github.com:debanaskar13/Order-Service.git
 [submodule "services/notification-service"]
 	path = services/notification-service
-	url = https://github.com/debanaskar13/Notification-Service.git
+	url = git@github.com:debanaskar13/Notification-Service.git
 [submodule "kubernetes"]
 	path = kubernetes
-	url = https://github.com/debanaskar13/Ecommerce-Kubernetes.git
+	url = git@github.com:debanaskar13/Ecommerce-Kubernetes.git
 [submodule "config"]
 	path = config
-	url = https://github.com/debanaskar13/microservice-config.git
+	url = git@github.com:debanaskar13/microservice-config.git
