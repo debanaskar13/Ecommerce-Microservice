@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ecommerce-Microservice.iml" filepath="$PROJECT_DIR$/.idea/Ecommerce-Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/config-service/config-server.iml" filepath="$PROJECT_DIR$/services/config-service/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/customer-service/customer.iml" filepath="$PROJECT_DIR$/services/customer-service/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/discovery-service/discovery.iml" filepath="$PROJECT_DIR$/services/discovery-service/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/notification-service/notification.iml" filepath="$PROJECT_DIR$/services/notification-service/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/order-service/order.iml" filepath="$PROJECT_DIR$/services/order-service/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/product-service/product.iml" filepath="$PROJECT_DIR$/services/product-service/product.iml" />
+    </modules>
+  </component>
+</project>

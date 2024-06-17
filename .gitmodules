@@ -19,3 +19,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = https://github.com/debanaskar13/Ecommerce-Kubernetes.git
+[submodule "config"]
+	path = config
+	url = https://github.com/debanaskar13/microservice-config.git
